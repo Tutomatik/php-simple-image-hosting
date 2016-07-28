@@ -20,4 +20,12 @@ $globalsite_rootimgpageurl = "https://img.somerandomsitenamehere.eu/";
 // Site owner's name
 $globalsite_author = "Steve Francis";
 
+// Description du site
+// Site's description
+$globalsite_desc = "An EASY PHP Image Hosting script !! (Made in France by TroniQ89)";
+
+// Entrez le nom du site
+// Site's name
+$globalsite_title = "PHP Simple Image Hosting script";
+
 ?>
